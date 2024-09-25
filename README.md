@@ -1,3 +1,3 @@
-# Javac Source from [OpenJDK](https://link.juejin.cn/?target=https%3A%2F%2Fhg.openjdk.java.net%2Fjdk8%2Fjdk8%2Flangtools%2F)
+# Javac Source from [OpenJDK](https://hg.openjdk.org/jdk8/jdk8/langtools/)
 
 It is used for debugging javac.
